@@ -137,8 +137,8 @@ section.switch a {
 }
 
 section.switch a:hover {
-    background-color: #333;
-    color: rgb(235, 235, 235);
+    background-color: var(--darkpink);
+    color: var(--darkblue);
 }
 
 button {
@@ -159,11 +159,11 @@ button:hover {
 }
 
 button.switch {
-    background-color: rgb(235, 235, 235);
+    background-color: var(--darkpink);
     border-color: #333;
 }
 
 button.switch:hover {
     background-color: #333;
-    color: rgb(235, 235, 235)
+    color: var(--darkblue))
 }
