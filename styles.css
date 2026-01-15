@@ -37,11 +37,12 @@ body {
 h1{
     font-family: "Montreal Italic";
     font-size: 2rem;
+    line-height: 0;
 }
 
 h2{
     font-family: "Montreal Italic";
-    font-size: 1.5rem;
+    font-size: 1.1rem;
 }
 
 h3{
